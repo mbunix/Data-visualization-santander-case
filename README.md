@@ -1,4 +1,4 @@
-# Data-visualization- Hospital Patint Management Data Visualization Pipeline 
+# Data-visualization- Hospital Patient Management Data Visualization Pipeline 
 
 
 A patient data visualization and machine learning approach to data driven decision making in healthcare in kenya 
